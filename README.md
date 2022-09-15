@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matthew5727
+- 👀 I’m interested in coding and anime.
+- 🌱 I’m currently learning javascript as a programmer for FRC 5727
+- 💞️ I’m looking to collaborate on coding for FRC 5727 on any level.
+- 📫 How to reach me 12354330@student.rcsnc.org
